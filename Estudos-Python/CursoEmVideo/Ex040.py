@@ -12,3 +12,5 @@ elif media == 5.0 or media <= 6.9:
     print('Vá para a RECUPERAÇÃO!')
 elif media >= 7.0:
     print('Parabéns! Você está APROVADO!')
+
+# if 7 > media >= 5:

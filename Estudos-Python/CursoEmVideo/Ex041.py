@@ -8,11 +8,13 @@
 idade = int(input('Digite sua idade: '))
 if idade <= 9:
     print('Sua categoria é Mirim.')
-elif idade == 10 or idade <= 14:
+elif idade <= 14:
     print('Sua categoria é Infantil.')
-elif idade == 15 or idade <= 19:
+elif idade <= 19:
     print('Sua categoria é Júnior.')
-else:
+elif idade <= 25:
     print('Sua categoria é Sênior.')
+else:
+    print('Sua categoria é Master.')
 
 
