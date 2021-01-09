@@ -4,10 +4,29 @@
 # A vista no cartão: 5% de desconto
 # Em até 2x no cartão: Preço normal
 # 3x ou mais no cartão: 20% de juros
-preço = float(input('Digite o preço total do produto: '))
-método = str(input('Como deseja pagar? ')).upper
-if método != À_VISTA and método != a_vista:
+print('{:=^40}'.format('LOJA DO GABRIEL'))
+preço = float(input('Digite o preço total da compra: R$'))
+metodo = int(input('''Como deseja pagar?
+(1) À vista dinhero/cheque
+(2) À vista no cartão
+(3) 2x no cartão
+(4) 3x ou mais no cartão
+Resposta: '''))
+if metodo == 1:
+    total = preço - (preço * 10 / 100)
+    print('O preço à vista no dinheiro/cheque, com 10% de desconto, é R${:.2f}'.format(total))
+elif metodo == 2:
+    total = preço - (preço * 5 / 100)
+    print('O preço à vista no cartão, com 5% de desconto é R${:.2f}'.format(total))
+elif metodo == 3:
+    print('O preço em até 2x no cartão é R${:.2f}'.format(preço))
+elif metodo == 4:
+    parcelas = int(input('Quantas parcelas? '))
+    juros = preço + (preço * 20 / 100)
+    total = juros / parcelas
+    print('O preço final da compra parcelada em {}x de R${:.2f}, com 20% de juros, no cartão é R${:.2f}'.format(parcelas, total, juros))
 else:
-    print('À vista no dinheiro, ou no chegue você tem 10% de desconto.')
+    print('Digite um metodo válido.')
+
 
 
