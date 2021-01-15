@@ -1,5 +1,4 @@
-s = 1
-for c in range(0, 4):
-    n = int(input('Digite um valor: '))
-    s += n
-print(s)
+import math
+num = input("Enter a number: ")
+print("The factorial of ", num, " is : ")
+print(math.factorial(int(num)))

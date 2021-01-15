@@ -3,11 +3,33 @@
 from random import randint
 random = randint(0, 10)
 tentativas = 0
-palpite = int(input('Digite um numero: '))
-while palpite != random:
-    print('Tente novamente')
-    palpite = int(input('Digite outro número: '))
+jogador = int(input('Digite um número: '))
+while jogador != random:
+    jogador = int(input('Tente novamente. Digite outro número: '))
     tentativas += 1
-    if palpite == random:
+    if jogador > random:
+        print('Menos...')
+    elif jogador < random:
+        print('Mais...')
+    elif jogador == random:
         print('Vc acertou!')
 print('Depois de {} tentivas, você acertou.'.format(tentativas))
+
+# ou
+'''
+from random import randint
+pc = randint(0, 10)
+acertou = False
+palpites = 0
+while not acertou:
+    jogador = int(input('Qual é seu palpite? '))
+    palpites += 1
+    if jogador == pc:
+        acertou = True
+    else:
+        if jogador < pc:
+            print('Mais...')
+        elif jogador > pc:
+            print('Menos...')
+print('Acertou com {} tentativas.'.format(palpites))
+'''
