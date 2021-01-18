@@ -48,7 +48,7 @@ sleep(1)
 print('PO!')
 print(11 * '-=')
 print('Eu joguei {}'.format(itens[computador]))
-print('Você jogou {}'.format(itens[computador]))
+print('Você jogou {}'.format(itens[jogador]))
 print(11 * '-=')
 if computador == 0: #Pedra
    if jogador == 0:
