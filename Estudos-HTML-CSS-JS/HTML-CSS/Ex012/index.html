@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeos com HTML5</title>
+</head>
+<body>
+    <h1>Inserindo vídeos hospedados localmente</h1>
+    <p>Este vídeo está hospedado no meu próprio servidor.</p>
+    <!-- <video src="midia/Pexels720p.mp4" width="500" controls></video>
+    <br>
+    <video src="midia/Pexels720p2.mp4" controls></video> -->
+    <video width="500" poster="imagens/thumbnail.jpg" controls loop>
+        <!-- A ordem importa! -->
+        <source src="midia/Pexels720p.mp4" type="video/mp4">
+        <source src="midia/Pexels720p2.mp4" type="video/mp4">
+        <!-- Vídeo mp4/mpv = type="video/mp4"
+             Vídeo webm = type="video/webm" 
+             Vídeo ogv = type="video/ogg" -->
+        <p>Seu navegador não tem compatibilidade com reprodução de vídeos.</p>
+    </video>
+    <!--Vídeos hospedados no próprio servidor podem resultar em altos custos de hospedagem-->
+
+    <h1>Inserindo vídeos do YouTube</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/eF9Qoc6p_4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <h1>Inserindo vídeo do Vimeo</h1>
+    <iframe src="https://player.vimeo.com/video/197093965" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
