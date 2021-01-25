@@ -3,9 +3,9 @@
 from random import randint
 random = randint(0, 10)
 tentativas = 0
-jogador = int(input('Digite um número: '))
-while jogador != random:
-    jogador = int(input('Tente novamente. Digite outro número: '))
+# jogador = int(input('Digite um número: '))
+while True:
+    jogador = int(input('Digite um número: '))
     tentativas += 1
     if jogador > random:
         print('Menos...')
@@ -13,6 +13,7 @@ while jogador != random:
         print('Mais...')
     elif jogador == random:
         print('Vc acertou!')
+        break
 print('Depois de {} tentivas, você acertou.'.format(tentativas))
 
 # ou
