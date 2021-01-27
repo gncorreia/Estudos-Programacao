@@ -33,3 +33,8 @@ while True:
     else:
         print('Opção inválida.')
 print('Volte sempre.')
+
+# pode fazer assim tbm:
+# opção = 0
+# while opção != 5:
+# e faz o programa dnv
