@@ -3,3 +3,4 @@
 # A) Qual é o total gasto na compra.
 # B) Quantos produtos custam mais de R$1000.
 # C) Qual é o nome do produto mais barato.
+
