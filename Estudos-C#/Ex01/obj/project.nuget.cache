@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "emJrEaD7BRznCdYGL39xHE8R/43owNaAmg4qBxfXj8hqWDBXFgZmRUF0D2+hkZwds0rm3r/jb4Olyt52zSR/cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\Documents\\GitHub\\Estudos-Programacao\\Estudos-C#\\Ex01\\Ex01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
