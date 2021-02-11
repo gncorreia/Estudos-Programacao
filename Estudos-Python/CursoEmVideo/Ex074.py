@@ -4,3 +4,7 @@
 from random import randint
 tupla = (randint(1, 5), randint(1, 5), randint(1, 5), randint(1, 5), randint(1, 5))
 print(tupla)
+maior = max(tupla)
+menor = min(tupla)
+print(f'O maior é {maior}')
+print(f'O menor é {menor}')
