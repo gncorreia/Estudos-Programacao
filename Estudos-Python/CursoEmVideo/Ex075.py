@@ -10,13 +10,11 @@ n4 = int(input('Digite o quarto número: '))
 tupla = (n1, n2, n3, n4)
 print(tupla)
 print(f'O número 9 apareceu {tupla.count(9)} vez(es)')
-print(f'O 3 está na posição {tupla.index(3)}')
+if 3 in tupla:
+    print(f'O 3 apareceu na {tupla.index(3) + 1}ª posição')
+else:
+    print(f'O valor 3 não foi encontrado.')
 print(f'Os números pares são: ', end='')
-if n1 % 2 == 0:
-    print(n1, end=' e ')
-if n2 % 2 == 0:
-    print(n2, end=' e ')
-if n3 % 2 == 0:
-    print(n3, end=' e ')
-if n4 % 2 == 0:
-    print(n4, end='')
+for n in tupla:
+    if n % 2 == 0:
+        print(n, end=' ')

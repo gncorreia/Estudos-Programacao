@@ -9,9 +9,16 @@ times = ('Corinthians', 'Palmeiras', 'Santos', 'Grêmio', 'Cruzeiro', 'Flamengo'
          'Chapecoense', 'Atlético', 'Botafogo', 'Atlético-PR', 'Bahia', 'São Paulo',
          'Fluminense', 'Sport Recife', 'EC Vitória', 'Coritiba', 'Avaí', 'Ponte Preta',
          'Atlético-GO')
+print('-=' * 15)
 print(f'Lista de times do Brasileirão: {times}')
+print('-=' * 15)
 print(f'Os cinco primeiros colocados são {times[:5]}')
-print(f'Os últimos 4 colocados são {times[15:]} ')
+print('-=' * 15)
+print(f'Os últimos 4 colocados são {times[16:]} ')
+print('-=' * 15)
 print(f'Os times em ordem alfabética: {sorted(times)}')
-print(f'Chapecoense está na posição {len(times[8])}')
+print('-=' * 15)
+print(f'Chapecoense está na {times.index("Chapecoense")+1}ª posição')
+# ou coloca desse jeito {len(times[8])}')
+print('-=' * 15)
 
