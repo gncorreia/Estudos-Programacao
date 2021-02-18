@@ -1,6 +1,6 @@
 lanche = ('Hambúrguer', 'Suco', 'Pizza', 'Pudim')
 # Tuplas são imutáveis
-# lanche[1] = 'Refrigerante'
+# lanche[1] = 'Suco'
 print(lanche[1])
 print(len(lanche))
 
