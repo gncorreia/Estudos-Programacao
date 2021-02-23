@@ -3,9 +3,12 @@
 # exibidos todos os valores únicos digitados, em ordem crescente.
 lista = list()
 while True:
-    lista.append(int(input('Digite um número: ')))
-    if lista.append(int(input('Digite um número: '))) == lista:
-        print('Número duplicado. Digite outro.')
+    n = int(input('Digite um número: '))
+    while n in lista:
+        n = int(input('Número já existente. Digite outro número: '))
+    if n not in lista:
+        lista.append(n)
+        print('Número adicionado à lista com sucesso!')
     condição = str(input('Deseja continuar? [S/N] '))
     while condição not in 'SsNn':
         condição = str(input('Valor inválido. Deseja continuar? [S/N] '))

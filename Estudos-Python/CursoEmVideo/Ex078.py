@@ -2,17 +2,23 @@
 # qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
 lista = list()
 for palavras in range(0, 5):
-    lista.append(int(input('Digite um número: ')))
+    lista.append(int(input(f'Digite a {palavras + 1}º número: ')))
 máximo = max(lista)
 mínimo = min(lista)
-posição1 = 0
-posição2 = 0
 for p, v in enumerate(lista):
     if v == máximo:
-        posição1 = p
+        print(f'{p}, ', end='')
     if v == mínimo:
-        posição2 = p
+        print(f'{p}, ', end='')
 print(f'Os números digitados foram: {lista}')
-print(f'O maior número digitado foi {máximo} na posição {posição1 + 1}.')
-print(f'O menor número digitado foi {mínimo} na posição {posição2 + 1}.')
+print(f'O maior número digitado foi {máximo} nas posições ', end='')
+for p, v in enumerate(lista):
+    if v == máximo:
+        print(f'{p + 1}, ', end='')
+print()
+print(f'O menor número digitado foi {mínimo} nas posições ', end='')
+for p, v in enumerate(lista):
+    if v == mínimo:
+        print(f'{p + 1}, ', end='')
+print()
 
