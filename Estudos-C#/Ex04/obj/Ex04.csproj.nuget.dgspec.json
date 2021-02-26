@@ -1,30 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\Documents\\GitHub\\Estudos-Programacao\\Estudos-C#\\Ex04\\Ex04.csproj": {}
+    "/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/Ex04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\Documents\\GitHub\\Estudos-Programacao\\Estudos-C#\\Ex04\\Ex04.csproj": {
+    "/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/Ex04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\Documents\\GitHub\\Estudos-Programacao\\Estudos-C#\\Ex04\\Ex04.csproj",
+        "projectUniqueName": "/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/Ex04.csproj",
         "projectName": "Ex04",
-        "projectPath": "C:\\Users\\gabri\\Documents\\GitHub\\Estudos-Programacao\\Estudos-C#\\Ex04\\Ex04.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\Documents\\GitHub\\Estudos-Programacao\\Estudos-C#\\Ex04\\obj\\",
+        "projectPath": "/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/Ex04.csproj",
+        "packagesPath": "/home/gabriel/.nuget/packages/",
+        "outputPath": "/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/gabriel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -35,8 +34,7 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -52,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
         }
       }
     }

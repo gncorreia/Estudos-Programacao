@@ -1,0 +1,11 @@
+/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/bin/Debug/netcoreapp3.1/Ex04
+/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/bin/Debug/netcoreapp3.1/Ex04.deps.json
+/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/bin/Debug/netcoreapp3.1/Ex04.runtimeconfig.json
+/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/bin/Debug/netcoreapp3.1/Ex04.runtimeconfig.dev.json
+/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/bin/Debug/netcoreapp3.1/Ex04.dll
+/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/bin/Debug/netcoreapp3.1/Ex04.pdb
+/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/obj/Debug/netcoreapp3.1/Ex04.csprojAssemblyReference.cache
+/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/obj/Debug/netcoreapp3.1/Ex04.AssemblyInfoInputs.cache
+/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/obj/Debug/netcoreapp3.1/Ex04.AssemblyInfo.cs
+/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/obj/Debug/netcoreapp3.1/Ex04.dll
+/home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/obj/Debug/netcoreapp3.1/Ex04.pdb
