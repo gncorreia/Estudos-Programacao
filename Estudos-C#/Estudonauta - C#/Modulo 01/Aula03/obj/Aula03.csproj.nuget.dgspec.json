@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/Aula006.csproj": {}
+    "/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Modulo 01/Aula03/Aula03.csproj": {}
   },
   "projects": {
-    "/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/Aula006.csproj": {
+    "/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Modulo 01/Aula03/Aula03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/Aula006.csproj",
-        "projectName": "Aula006",
-        "projectPath": "/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/Aula006.csproj",
+        "projectUniqueName": "/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Modulo 01/Aula03/Aula03.csproj",
+        "projectName": "Aula03",
+        "projectPath": "/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Modulo 01/Aula03/Aula03.csproj",
         "packagesPath": "/home/gabriel/.nuget/packages/",
-        "outputPath": "/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/obj/",
+        "outputPath": "/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Modulo 01/Aula03/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gabriel/.nuget/NuGet/NuGet.Config"
