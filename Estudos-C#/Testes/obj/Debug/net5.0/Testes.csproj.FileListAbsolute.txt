@@ -1,0 +1,16 @@
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/bin/Debug/net5.0/Testes
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/bin/Debug/net5.0/Testes.deps.json
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/bin/Debug/net5.0/Testes.runtimeconfig.json
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/bin/Debug/net5.0/Testes.runtimeconfig.dev.json
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/bin/Debug/net5.0/Testes.dll
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/bin/Debug/net5.0/ref/Testes.dll
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/bin/Debug/net5.0/Testes.pdb
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/obj/Debug/net5.0/Testes.csprojAssemblyReference.cache
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/obj/Debug/net5.0/Testes.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/obj/Debug/net5.0/Testes.AssemblyInfoInputs.cache
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/obj/Debug/net5.0/Testes.AssemblyInfo.cs
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/obj/Debug/net5.0/Testes.csproj.CoreCompileInputs.cache
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/obj/Debug/net5.0/Testes.dll
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/obj/Debug/net5.0/ref/Testes.dll
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/obj/Debug/net5.0/Testes.pdb
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Testes/obj/Debug/net5.0/Testes.genruntimeconfig.cache
