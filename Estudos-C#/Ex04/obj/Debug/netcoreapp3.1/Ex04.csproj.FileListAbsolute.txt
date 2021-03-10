@@ -9,3 +9,16 @@
 /home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/obj/Debug/netcoreapp3.1/Ex04.AssemblyInfo.cs
 /home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/obj/Debug/netcoreapp3.1/Ex04.dll
 /home/gabriel/Estudos-Programacao/Estudos-C#/Ex04/obj/Debug/netcoreapp3.1/Ex04.pdb
+C:\Users\gabri\Documents\GitHub\Estudos-Programacao\Estudos-C#\Ex04\bin\Debug\netcoreapp3.1\Ex04.exe
+C:\Users\gabri\Documents\GitHub\Estudos-Programacao\Estudos-C#\Ex04\bin\Debug\netcoreapp3.1\Ex04.deps.json
+C:\Users\gabri\Documents\GitHub\Estudos-Programacao\Estudos-C#\Ex04\bin\Debug\netcoreapp3.1\Ex04.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\Estudos-Programacao\Estudos-C#\Ex04\bin\Debug\netcoreapp3.1\Ex04.runtimeconfig.dev.json
+C:\Users\gabri\Documents\GitHub\Estudos-Programacao\Estudos-C#\Ex04\bin\Debug\netcoreapp3.1\Ex04.dll
+C:\Users\gabri\Documents\GitHub\Estudos-Programacao\Estudos-C#\Ex04\bin\Debug\netcoreapp3.1\Ex04.pdb
+C:\Users\gabri\Documents\GitHub\Estudos-Programacao\Estudos-C#\Ex04\obj\Debug\netcoreapp3.1\Ex04.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\GitHub\Estudos-Programacao\Estudos-C#\Ex04\obj\Debug\netcoreapp3.1\Ex04.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\Estudos-Programacao\Estudos-C#\Ex04\obj\Debug\netcoreapp3.1\Ex04.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\Estudos-Programacao\Estudos-C#\Ex04\obj\Debug\netcoreapp3.1\Ex04.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\Estudos-Programacao\Estudos-C#\Ex04\obj\Debug\netcoreapp3.1\Ex04.dll
+C:\Users\gabri\Documents\GitHub\Estudos-Programacao\Estudos-C#\Ex04\obj\Debug\netcoreapp3.1\Ex04.pdb
+C:\Users\gabri\Documents\GitHub\Estudos-Programacao\Estudos-C#\Ex04\obj\Debug\netcoreapp3.1\Ex04.genruntimeconfig.cache
