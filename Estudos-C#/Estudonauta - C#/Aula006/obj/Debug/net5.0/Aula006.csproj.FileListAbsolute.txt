@@ -1,0 +1,16 @@
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/bin/Debug/net5.0/Aula006
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/bin/Debug/net5.0/Aula006.deps.json
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/bin/Debug/net5.0/Aula006.runtimeconfig.json
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/bin/Debug/net5.0/Aula006.runtimeconfig.dev.json
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/bin/Debug/net5.0/Aula006.dll
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/bin/Debug/net5.0/ref/Aula006.dll
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/bin/Debug/net5.0/Aula006.pdb
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/obj/Debug/net5.0/Aula006.csprojAssemblyReference.cache
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/obj/Debug/net5.0/Aula006.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/obj/Debug/net5.0/Aula006.AssemblyInfoInputs.cache
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/obj/Debug/net5.0/Aula006.AssemblyInfo.cs
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/obj/Debug/net5.0/Aula006.csproj.CoreCompileInputs.cache
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/obj/Debug/net5.0/Aula006.dll
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/obj/Debug/net5.0/ref/Aula006.dll
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/obj/Debug/net5.0/Aula006.pdb
+/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Estudonauta - C#/Aula006/obj/Debug/net5.0/Aula006.genruntimeconfig.cache

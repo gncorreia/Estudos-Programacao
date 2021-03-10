@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "emJrEaD7BRznCdYGL39xHE8R/43owNaAmg4qBxfXj8hqWDBXFgZmRUF0D2+hkZwds0rm3r/jb4Olyt52zSR/cw==",
+  "dgSpecHash": "oKSGiKhH3T9dTii34U92jwGv1KYl9C16TF7ifhsnaeXAjbJ+IebC4ER8HFMeIp3sZoDOAfNTnBP0HKWgw0WuGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\Documents\\GitHub\\Estudos-Programacao\\Estudos-C#\\Ex01\\Ex01.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/gabriel/Documents/GitHub/Estudos-Programacao/Estudos-C#/Ex01/Ex01.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
